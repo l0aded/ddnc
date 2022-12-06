@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "cookie-parser": "~1.0.1",
-    "body-parser": "^1.14.0",
-    "express": "^4.13.3",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "ejs": "^2.3.4",
     "loglevel": "^1.4.1",
     "path": "^0.12.7",
