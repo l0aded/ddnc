@@ -10,7 +10,7 @@
   "dependencies": {
     "cookie-parser": "~1.0.1",
     "body-parser": "^1.14.0",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "ejs": "^2.3.4",
     "loglevel": "^1.4.1",
     "path": "^0.12.7",
